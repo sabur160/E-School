@@ -1,0 +1,173 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body{
+    font-family: "Poppins", sans-serif;
+    margin: 0 ;
+}
+.top{
+    background-color: #F0FFF0;
+    height: 600px;
+}
+.navbar-brand img {
+    height: 59px;
+    width: 198.07px;
+    margin-top: 20px;
+    margin-left: 100%;
+}
+.navbar-nav{
+    margin-right: 4%;
+    gap: 35px;
+    margin-top: 0px;
+
+}
+#sign{
+    background-color: #21B573;
+    padding: 12px 28px 12px 28px ;
+    border-radius: 33px;
+    color: white;
+}
+.first{
+    display: flex;
+    
+
+}
+
+.learn{
+     margin-top: 90px;
+     margin-left: 205px;
+     margin-bottom: 10px;
+}
+section div h1{
+    font-size: 48px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+section div p{
+    font-weight: 400;
+    font-size: 16px;
+}
+.photo{
+    width: 554px;
+    height: 346px;
+    margin-top: 70px;
+    margin-left: 100px;
+}
+.col{
+    color:#21B573;
+}
+.get{
+    text-decoration: none;
+    background-color: #21B573;
+    padding: 12px 36px 12px 36px;
+    border-radius: 33px;
+    margin-top: 50%;
+    color: white;
+}
+.ga{
+    margin-bottom: 50px;
+}
+.any img{
+    height: 85px;
+    width: 66px;
+}
+.any{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content:space-between;
+    padding: 100px;
+   
+}
+.line{
+    margin-left: 20px;
+    padding: 30px 40px;
+    
+
+}
+.line h2{
+    font-size: 25px;
+}
+.line:hover{
+    box-shadow: 5px 10px 50px rgb(128, 128, 128, 0.2) ;
+    border-radius: 5px;
+    transition: box-shadow 0.5s;
+
+}
+.li{
+    text-align: center;
+    font-weight: 700;
+    color: rgb(39, 39, 39);
+    
+}
+.ph img{
+    height: 234px;
+    width: 331px;
+}
+.ph{
+    padding: 30px;
+    margin: 20px;
+    border-radius: 18px;
+    box-shadow: 0px 10px 40px rgb(128, 128, 128, 0.2);
+
+
+}
+.sec{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 80px;
+}
+.time{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+.sec a{
+    background-color: #21B573;
+    text-decoration: none;
+    padding:8px 28px 8px 28px ;
+    border-radius: 33px;
+    color: white;
+    
+}
+.sec h3{
+    margin-top: 20px;
+}
+.test img{
+    height: 120px;
+    width: 120px;
+}
+.test p{
+    font-weight: 400;
+    font-size: 16px;
+    margin-left: 50px;margin-top: 20px;
+    
+}
+.test{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px 40px ;
+    margin:  60px 300px ;
+    justify-content: center;
+}
+#te{
+    margin-top: 50px;
+}
+.last{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 30px;
+    margin: 30px;
+    justify-content: space-between;
+    list-style: none;
+    text-align: left;
+
+    color: white;
+}
+.bol{
+    font-weight: 700;
+}
+.la{
+    background-color: #282531;
+    color: white;text-align: center;
+}
